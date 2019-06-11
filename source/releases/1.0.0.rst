@@ -1,0 +1,7 @@
+Version 1.0.0
+=============
+
+**Release Date**: 2019.05.31
+
+.. note::
+    This is only an alpha version.
